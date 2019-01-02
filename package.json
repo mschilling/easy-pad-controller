@@ -1,0 +1,14 @@
+{
+  "name": "easy-pad-controller",
+  "version": "0.0.1",
+  "description": "EasyPad Controller",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "npx rollup -c"
+  },
+  "author": "Michael Schilling",
+  "license": "MIT",
+  "dependencies": {
+    "rollup": "^0.67.3"
+  }
+}
